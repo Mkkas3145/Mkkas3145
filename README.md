@@ -1,13 +1,10 @@
 👋 Hello World!
 
-🌐 Useable Language
-
+## 🌐 Useable Language
 C/C++, PHP, JavaScript, Java
 
-🤬 Dislikes
-
+## 🤬 Dislikes
 Viewing open source code that appears to be obfuscated
 
-😍 Things I like
-
+## 😍 Things I like
 Looking at the good web
