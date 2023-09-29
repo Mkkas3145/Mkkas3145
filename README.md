@@ -1,5 +1,3 @@
-![developers_github_banner_2](https://github.com/Mkkas3145/Mkkas3145/assets/76113903/b3296bad-e6bf-4e40-85cb-09685ec446ef)
-
 # 👋 Hello World!
 
 ## 🌐 Useable Language
