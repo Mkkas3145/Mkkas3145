@@ -1,7 +1,7 @@
 # 👋 Hello World!
 
 ## 🌐 Useable Language
-C/C++, PHP, JavaScript, Java
+Golang, Java, PHP, JavaScript
 
 ## 🤬 Dislikes
 Viewing open source code that appears to be obfuscated
