@@ -9,7 +9,7 @@ Develop plugins using Java.
 
 ## 💎 Minecraft Plugins
 https://cafe.naver.com/minecraftgame/1789517
-https://cafe.naver.com/minecraftgame/1789517
+https://cafe.naver.com/minecraftgame/1819731
 https://cafe.naver.com/minecraftgame/1830666
 https://cafe.naver.com/minecraftgame/1855273
 https://cafe.naver.com/minecraftgame/1788056
