@@ -18,4 +18,5 @@ https://cafe.naver.com/minecraftgame/1785651
 https://cafe.naver.com/minecraftgame/1764819
 
 ## 💎 Minecraft Modes
+DyingZone Core
 https://github.com/Mkkas3145/Mkkas3145/assets/76113903/241dfe1c-6352-4cbf-baa9-8594a7a6bbcc
