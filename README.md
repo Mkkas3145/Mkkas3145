@@ -6,7 +6,7 @@ Golang, Java, PHP, JavaScript
 ## ⛏️ I like Minecraft
 Develop plugins using Java.
 
-## ⛏️ Minecraft Plugins
+## 💎 Minecraft Plugins
 https://cafe.naver.com/minecraftgame/1789517
 https://cafe.naver.com/minecraftgame/1819731
 https://cafe.naver.com/minecraftgame/1830666
