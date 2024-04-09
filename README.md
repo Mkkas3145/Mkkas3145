@@ -1,6 +1,5 @@
-
-https://github.com/Mkkas3145/Mkkas3145/assets/76113903/0dcc5c34-4097-4cef-885e-743d51f07717
 # 👋 Hello World!
+My nickname is Mkkas3145 and my nickname is 마카롱.
 
 ## 🌐 Useable Language
 Golang, Java, PHP, JavaScript
