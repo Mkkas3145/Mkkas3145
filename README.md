@@ -4,9 +4,9 @@
 > 1~2년 동안 Louibooks(루이북스)를 개발했으며 다양한 알고리즘과 로직을 작성하는 경험을 하였습니다.
 
 ## 🌐 스택
-- Golang                    __PubCafe 프로젝트 개발 참여__
-- Java(And Kotlin)          | 마인크래프트 플러그인 및 모드 개발
-- PHP                       | Louibooks 단독 개발
+- Golang                    __(PubCafe 프로젝트 개발 참여)__
+- Java(And Kotlin)          __(마인크래프트 플러그인 및 모드 개발)__
+- PHP                       __(Louibooks 단독 개발)__
 - JavaScript
 - MySQL
 - HTML5(And Web-Components)
