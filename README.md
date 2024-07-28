@@ -4,4 +4,10 @@
 > 1~2년 동안 Louibooks(루이북스)를 개발했으며 다양한 알고리즘과 로직을 작성하는 경험을 하였습니다.
 
 ## 🌐 스택
-Golang, Java(And Kotlin), PHP, JavaScript(And Typescript), MySQL, Redis, HTML5(And Web-Components), CSS3
+- Golang
+- Java(And Kotlin)
+- PHP
+- JavaScript(And Typescript)
+- MySQL
+- HTML5(And Web-Components)
+- CSS3
